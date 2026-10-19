@@ -1,12 +1,12 @@
-# Lorem ipsum
+# Eduardo Adriano Abdon Lima
 
-Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCOM, desenvolvedor na DIAVI e cofundador do grupo **[Covil](https://covildev.com)**. Atuo no desenvolvimento de soluções web, mobile Android e infraestrutura de software.
+Estudante de Ciência da Computação na **UNAMA**. Programo em Python, C, JavaScript e CSS.
 
 
 <div align="center">
   <h2> COMO EU CODO <h2>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=sayydaviid&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sayydaviid&layout=normal&langs_count=4&card_width=500&theme=transparent" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=dudsien&show_icons=true&theme=transparent&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dudsien&layout=normal&langs_count=4&card_width=500&theme=transparent" alt="Top Languages" />
 </div>
 
 
@@ -15,11 +15,11 @@ Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCO
 <div align="center">
   <h2>Principais Repositórios</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://github.com/sayydaviid/portfolio">
-      <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sayydaviid&repo=portfolio&theme=transparent" alt="Portfolio Repo">
+    <a href="https://github.com/dudsien/portfolio">
+      <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dudsien&repo=portfolio&theme=transparent" alt="Portfolio Repo">
     </a>
-    <a href="https://github.com/sayydaviid/NoSpamEmail">
-      <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=sayydaviid&repo=NoSpamEmail&theme=transparent" alt="NoSpamEmail Repo">
+    <a href="https://github.com/dudsien/NoSpamEmail">
+      <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dudsien&repo=NoSpamEmail&theme=transparent" alt="NoSpamEmail Repo">
     </a>
   </div>
 </div>
@@ -29,17 +29,12 @@ Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCO
 ## Tecnologias
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" valign="middle" alt="Python logo" /> <b>Python</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" valign="middle" alt="Java logo" /> <b>Java</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="28" height="28" valign="middle" alt="Spring Boot logo" /> <b>Spring Boot</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="28" height="28" valign="middle" alt="Kotlin logo" /> <b>Kotlin</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="28" height="28" valign="middle" alt="Jetpack Compose logo" /> <b>Jetpack Compose</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28" height="28" valign="middle" alt="C logo" /> <b>C</b>
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="28" height="28" valign="middle" alt="Next.js logo" /> <b>Next.js</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" valign="middle" alt="React logo" /> <b>React</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" height="28" valign="middle" alt="PostgreSQL logo" /> <b>PostgreSQL</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" height="28" valign="middle" alt="Docker logo" /> <b>Docker</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" valign="middle" alt="JavaScript logo" /> <b>JavaScript</b> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" valign="middle" alt="CSS logo" /> <b>CSS</b>
 </p>
 
 
@@ -47,14 +42,7 @@ Estudante de Ciência da Computação na UFPA, pesquisador no laboratório GERCO
 
 ## Contato
 
-Você pode me contatar pelo Linkedin ou E-mail:
+Meu perfil no GitHub:
 
-- <a href="https://www.linkedin.com/in/artuenric/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" valign="middle" alt="LinkedIn logo" />
-  </a> <kbd>artuenric</kbd>
-  
-- <a href="mailto:artuenrick.dev@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="24" valign="middle" alt="Gmail logo" />
-  </a> <kbd>E-mail: artuenrick.dev@gmail.com</kbd>
+- <a href="https://github.com/dudsien" target="_blank">dudsien</a>
 
-Conheça também o meu grupo de desenvolvimento **[Covil](https://covildev.com)** :)
